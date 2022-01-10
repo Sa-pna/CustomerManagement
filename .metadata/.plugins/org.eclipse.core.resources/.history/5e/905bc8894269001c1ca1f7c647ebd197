@@ -1,0 +1,5 @@
+package com.springbackend.springboot.model;
+
+public class Employee {
+
+}

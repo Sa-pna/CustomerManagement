@@ -1,0 +1,5 @@
+package com.springbackend.springboot.repository;
+
+public class EmployeeRepository {
+
+}
